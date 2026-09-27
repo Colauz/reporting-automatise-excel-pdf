@@ -1,0 +1,11 @@
+[Unit]
+Description=Déclenche le rapport commercial le lundi matin
+
+[Timer]
+OnCalendar=Mon *-*-* 06:30:00
+# Rattrape l'exécution si la machine était éteinte lundi matin.
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target

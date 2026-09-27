@@ -1,0 +1,10 @@
+# Rapport commercial — tous les lundis à 6 h 30.
+#
+# Installation :
+#   crontab -e   puis coller la ligne ci-dessous (en adaptant les chemins)
+#
+# Le verrou flock évite qu'une exécution longue en chevauche une autre si
+# le partage réseau est lent. La sortie part dans un journal daté ; les codes
+# de retour 1 (échec) et 2 (taux de rejet trop élevé) y restent tracés.
+
+30 6 * * 1 /usr/bin/flock -n /tmp/reporting.lock /chemin/vers/projet/.venv/bin/python /chemin/vers/projet/main.py >> /var/log/reporting/$(date +\%Y-\%m).log 2>&1

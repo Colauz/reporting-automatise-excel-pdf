@@ -1,0 +1,974 @@
+﻿date,client,produit,quantite,prix_unitaire,montant,vendeur,agence,fichier_source,semaine_fichier,annee_iso,semaine_iso,periode_iso,jour_nom
+2026-08-10,Techni-Elec 74,Borne de recharge 7.4kW,2.0,612.68,1225.36,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,Voltalp Installation,Onduleur hybride 5kW,3.0,1061.03,3183.09,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Alpes Energies Nouvelles,Disjoncteur modulaire 16A,7.0,12.82,89.74,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,3.0,576.92,1730.76,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,ELEC SAVOIE,Panneau PV 425Wc,7.0,151.51,1060.57,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,ELEC SAVOIE,Gants isolants classe 00,4.0,83.78,335.12,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Alpes Energies Nouvelles,Onduleur hybride 5kW,1.0,1086.3,1086.3,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Voltalp Installation,Disjoncteur modulaire 16A,10.0,12.88,128.8,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,ELEC SAVOIE,Multimètre TRMS CAT III,6.0,132.61,795.66,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,Mairie de Cognin,Disjoncteur différentiel 30mA,6.0,72.68,436.08,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,5.0,155.06,775.3,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Techni-Elec 74,Panneau PV 425Wc,4.0,157.41,629.64,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Techni-Elec 74,Projecteur LED 150W IP66,1.0,104.66,104.66,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,6.0,154.87,929.22,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,CCI Savoie,Disjoncteur modulaire 16A,9.0,13.11,117.99,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,Bâti-Pro Alpes,Câble U-1000 R2V 3G2.5 100m,2.0,162.14,324.28,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,ELEC SAVOIE,Borne de recharge 7.4kW,2.0,583.89,1167.78,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,GRENOBLE HABITAT,Disjoncteur modulaire 16A,7.0,12.68,88.76,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,3.0,59.68,179.04,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,Voltalp Installation,Disjoncteur différentiel 30mA,5.0,75.28,376.4,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,6.0,144.51,867.06,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,lundi
+2026-08-10,Alpes Energies Nouvelles,Dalle LED 600x600 36W,7.0,60.62,424.34,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,GRENOBLE HABITAT,Borne de recharge 7.4kW,2.0,605.13,1210.26,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-10,CCI Savoie,Gaine ICTA Ø20 100m,11.0,35.47,390.17,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,lundi
+2026-08-11,CCI Savoie,Disjoncteur différentiel 30mA,5.0,67.23,336.15,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,ELEC SAVOIE,Projecteur LED 150W IP66,2.0,110.26,220.52,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,CCI Savoie,Multimètre TRMS CAT III,1.0,144.34,144.34,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,5.0,110.68,553.4,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Domaine Skiable Courchevel,Gants isolants classe 00,2.0,82.29,164.58,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,1.0,158.84,158.84,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,SARL MONTBLANC ELEC,Panneau PV 425Wc,1.0,152.67,152.67,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,Bâti-Pro Alpes,Panneau PV 425Wc,2.0,150.52,301.04,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,7.0,34.57,241.99,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,5.0,35.93,179.65,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,4.0,74.39,297.56,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,Alpes Energies Nouvelles,Disjoncteur différentiel 30mA,4.0,71.28,285.12,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,4.0,162.05,648.2,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,ELEC SAVOIE,Dalle LED 600x600 36W,2.0,60.73,121.46,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,ETS DUMONT & FILS,Projecteur LED 150W IP66,3.0,109.2,327.6,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Mairie de Cognin,Gaine ICTA Ø20 100m,9.0,34.72,312.48,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,7.0,59.5,416.5,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Mairie de Cognin,Disjoncteur différentiel 30mA,5.0,70.28,351.4,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,11.0,13.16,144.76,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Domaine Skiable Courchevel,Onduleur hybride 5kW,2.0,1103.44,2206.88,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,Techni-Elec 74,Projecteur LED 150W IP66,4.0,107.95,431.8,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,Industries Rhône SAS,Disjoncteur différentiel 30mA,3.0,70.24,210.72,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,ELEC SAVOIE,Disjoncteur modulaire 16A,8.0,12.73,101.84,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mardi
+2026-08-11,Domaine Skiable Courchevel,Coffret 3 rangées 39 modules,4.0,91.32,365.28,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,ELEC SAVOIE,Gants isolants classe 00,3.0,84.15,252.45,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,6.0,12.96,77.76,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-11,ETS DUMONT & FILS,Dalle LED 600x600 36W,2.0,61.41,122.82,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mardi
+2026-08-12,CCI Savoie,Onduleur hybride 5kW,1.0,1078.67,1078.67,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,3.0,159.51,478.53,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,3.0,36.64,109.92,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Industries Rhône SAS,Panneau PV 425Wc,3.0,158.64,475.92,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Mairie de Cognin,Onduleur hybride 5kW,2.0,1092.41,2184.82,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,Mairie de Cognin,Panneau PV 425Wc,4.0,154.18,616.72,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,ELEC SAVOIE,Dalle LED 600x600 36W,4.0,61.91,247.64,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,ETS DUMONT & FILS,Coffret 3 rangées 39 modules,4.0,92.79,371.16,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,Domaine Skiable Courchevel,Borne de recharge 7.4kW,1.0,619.2,619.2,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Mairie de Cognin,Borne de recharge 7.4kW,1.0,578.17,578.17,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,Industries Rhône SAS,Panneau PV 425Wc,7.0,150.11,1050.77,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Voltalp Installation,Onduleur hybride 5kW,2.0,1126.5,2253.0,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,mercredi
+2026-08-12,GRENOBLE HABITAT,Multimètre TRMS CAT III,5.0,144.56,722.8,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-12,Voltalp Installation,Disjoncteur modulaire 16A,7.0,12.74,89.18,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,mercredi
+2026-08-13,CCI Savoie,Projecteur LED 150W IP66,5.0,109.81,549.05,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Mairie de Cognin,Disjoncteur différentiel 30mA,4.0,72.99,291.96,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Industries Rhône SAS,Gaine ICTA Ø20 100m,3.0,36.81,110.43,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,GRENOBLE HABITAT,Projecteur LED 150W IP66,7.0,111.3,779.1,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,2.0,158.08,316.16,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,2.0,151.76,303.52,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,3.0,151.97,455.91,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,SARL MONTBLANC ELEC,Panneau PV 425Wc,3.0,156.03,468.09,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,Alpes Energies Nouvelles,Disjoncteur différentiel 30mA,2.0,73.34,146.68,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,ETS DUMONT & FILS,Multimètre TRMS CAT III,4.0,144.7,578.8,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,Mairie de Cognin,Dalle LED 600x600 36W,5.0,61.43,307.15,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,4.0,160.06,640.24,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Techni-Elec 74,Gants isolants classe 00,2.0,87.12,174.24,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,GRENOBLE HABITAT,Borne de recharge 7.4kW,3.0,622.19,1866.57,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,ELEC SAVOIE,Multimètre TRMS CAT III,2.0,132.43,264.86,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,2.0,608.82,1217.64,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Voltalp Installation,Panneau PV 425Wc,6.0,153.93,923.58,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,CCI Savoie,Disjoncteur différentiel 30mA,2.0,70.34,140.68,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,11.0,36.77,404.47,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,ELEC SAVOIE,Disjoncteur modulaire 16A,8.0,12.97,103.76,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Techni-Elec 74,Dalle LED 600x600 36W,3.0,58.49,175.47,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,Bâti-Pro Alpes,Dalle LED 600x600 36W,5.0,58.66,293.3,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Voltalp Installation,Gants isolants classe 00,6.0,86.64,519.84,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,jeudi
+2026-08-13,Alpes Energies Nouvelles,Borne de recharge 7.4kW,1.0,618.83,618.83,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Alpes Energies Nouvelles,Borne de recharge 7.4kW,1.0,608.75,608.75,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,CCI Savoie,Coffret 3 rangées 39 modules,3.0,96.97,290.91,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Alpes Energies Nouvelles,Disjoncteur différentiel 30mA,5.0,70.5,352.5,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-13,Voltalp Installation,Onduleur hybride 5kW,1.0,1046.0,1046.0,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,jeudi
+2026-08-14,Alpes Energies Nouvelles,Gants isolants classe 00,3.0,82.0,246.0,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Alpes Energies Nouvelles,Disjoncteur modulaire 16A,11.0,12.77,140.47,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Domaine Skiable Courchevel,Dalle LED 600x600 36W,7.0,61.45,430.15,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Voltalp Installation,Disjoncteur différentiel 30mA,3.0,76.21,228.63,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,CCI Savoie,Disjoncteur modulaire 16A,9.0,13.39,120.51,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,vendredi
+2026-08-14,Alpes Energies Nouvelles,Gants isolants classe 00,3.0,83.13,249.39,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,vendredi
+2026-08-14,Alpes Energies Nouvelles,Disjoncteur différentiel 30mA,6.0,75.94,455.64,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,CCI Savoie,Projecteur LED 150W IP66,3.0,106.0,318.0,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,vendredi
+2026-08-14,Industries Rhône SAS,Multimètre TRMS CAT III,1.0,133.91,133.91,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,CCI Savoie,Disjoncteur modulaire 16A,10.0,13.55,135.5,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,2.0,72.82,145.64,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,vendredi
+2026-08-14,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,4.0,151.66,606.64,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,6.0,71.9,431.4,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Techni-Elec 74,Disjoncteur modulaire 16A,9.0,12.45,112.05,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,CCI Savoie,Disjoncteur modulaire 16A,12.0,12.81,153.72,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1050.28,1050.28,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Industries Rhône SAS,Dalle LED 600x600 36W,1.0,62.62,62.62,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,Industries Rhône SAS,Panneau PV 425Wc,8.0,155.63,1245.04,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,CCI Savoie,Multimètre TRMS CAT III,6.0,140.02,840.12,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-14,GRENOBLE HABITAT,Projecteur LED 150W IP66,7.0,106.69,746.83,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,vendredi
+2026-08-14,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,585.65,585.65,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,vendredi
+2026-08-15,Mairie de Cognin,Disjoncteur modulaire 16A,13.0,12.68,164.84,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,CCI Savoie,Onduleur hybride 5kW,3.0,1121.58,3364.74,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,Voltalp Installation,Projecteur LED 150W IP66,3.0,106.19,318.57,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,Bâti-Pro Alpes,Disjoncteur modulaire 16A,10.0,12.6,126.0,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Mairie de Cognin,Dalle LED 600x600 36W,4.0,57.41,229.64,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,ETS DUMONT & FILS,Dalle LED 600x600 36W,7.0,58.3,408.1,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,GRENOBLE HABITAT,Dalle LED 600x600 36W,2.0,60.87,121.74,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,ELEC SAVOIE,Disjoncteur modulaire 16A,3.0,11.91,35.73,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,GRENOBLE HABITAT,Disjoncteur modulaire 16A,10.0,13.07,130.7,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,ETS DUMONT & FILS,Coffret 3 rangées 39 modules,8.0,89.81,718.48,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,3.0,151.81,455.43,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,CCI Savoie,Disjoncteur différentiel 30mA,2.0,68.61,137.22,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,3.0,37.44,112.32,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,3.0,106.61,319.83,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Domaine Skiable Courchevel,Onduleur hybride 5kW,2.0,1074.97,2149.94,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,ELEC SAVOIE,Coffret 3 rangées 39 modules,7.0,88.44,619.08,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Techni-Elec 74,Gants isolants classe 00,5.0,86.85,434.25,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,8.0,12.96,103.68,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Mairie de Cognin,Onduleur hybride 5kW,1.0,1091.16,1091.16,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Domaine Skiable Courchevel,Multimètre TRMS CAT III,6.0,143.64,861.84,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1079.99,1079.99,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,2.0,157.33,314.66,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,Bâti-Pro Alpes,Câble U-1000 R2V 3G2.5 100m,1.0,151.34,151.34,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,samedi
+2026-08-15,ELEC SAVOIE,Multimètre TRMS CAT III,1.0,141.26,141.26,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-15,Bâti-Pro Alpes,Disjoncteur modulaire 16A,13.0,13.12,170.56,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,samedi
+2026-08-16,Industries Rhône SAS,Onduleur hybride 5kW,2.0,1073.65,2147.3,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Voltalp Installation,Panneau PV 425Wc,2.0,151.22,302.44,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,CCI Savoie,Multimètre TRMS CAT III,1.0,139.61,139.61,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Industries Rhône SAS,Borne de recharge 7.4kW,1.0,631.75,631.75,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1134.18,1134.18,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,CCI Savoie,Onduleur hybride 5kW,1.0,1084.59,1084.59,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Alpes Energies Nouvelles,Borne de recharge 7.4kW,1.0,572.83,572.83,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,dimanche
+2026-08-16,ELEC SAVOIE,Gaine ICTA Ø20 100m,4.0,37.0,148.0,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,10.0,34.81,348.1,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,3.0,96.97,290.91,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ETS DUMONT & FILS,Projecteur LED 150W IP66,1.0,108.05,108.05,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,6.0,37.83,226.98,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,dimanche
+2026-08-16,Domaine Skiable Courchevel,Panneau PV 425Wc,3.0,152.54,457.62,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,6.0,74.47,446.82,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Mairie de Cognin,Multimètre TRMS CAT III,1.0,139.83,139.83,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ELEC SAVOIE,Projecteur LED 150W IP66,3.0,101.89,305.67,Perrin,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ETS DUMONT & FILS,Multimètre TRMS CAT III,2.0,132.62,265.24,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,7.0,74.62,522.34,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Techni-Elec 74,Borne de recharge 7.4kW,1.0,580.23,580.23,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Bâti-Pro Alpes,Disjoncteur modulaire 16A,12.0,12.59,151.08,Blanc,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,CCI Savoie,Gaine ICTA Ø20 100m,11.0,37.33,410.63,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Industries Rhône SAS,Multimètre TRMS CAT III,2.0,131.67,263.34,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,11.0,12.95,142.45,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,ELEC SAVOIE,Dalle LED 600x600 36W,1.0,59.44,59.44,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Mairie de Cognin,Dalle LED 600x600 36W,3.0,58.45,175.35,Roux,Annecy,VENTES-ANNECY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-16,Domaine Skiable Courchevel,Projecteur LED 150W IP66,2.0,106.67,213.34,Meyer,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,dimanche
+2026-08-16,Voltalp Installation,Dalle LED 600x600 36W,2.0,59.77,119.54,Fournier,Grenoble,Export Grenoble semaine 33.xlsx,33,2026,33,2026-S33,dimanche
+2026-08-16,ETS DUMONT & FILS,Gants isolants classe 00,7.0,78.49,549.43,Sophie,Chambéry,VENTES-CHAMBERY-20260810.xlsx,,2026,33,2026-S33,dimanche
+2026-08-17,Bâti-Pro Alpes,Panneau PV 425Wc,5.0,155.58,777.9,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Industries Rhône SAS,Borne de recharge 7.4kW,2.0,609.17,1218.34,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Techni-Elec 74,Dalle LED 600x600 36W,8.0,62.47,499.76,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Industries Rhône SAS,Gaine ICTA Ø20 100m,7.0,36.27,253.89,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Industries Rhône SAS,Disjoncteur modulaire 16A,8.0,12.88,103.04,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,2.0,73.5,147.0,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Gants isolants classe 00,7.0,82.29,576.03,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,4.0,73.78,295.12,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,lundi
+2026-08-17,CCI Savoie,Multimètre TRMS CAT III,4.0,131.42,525.68,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Dalle LED 600x600 36W,3.0,64.12,192.36,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,lundi
+2026-08-17,Voltalp Installation,Multimètre TRMS CAT III,3.0,145.11,435.33,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,2.0,72.54,145.08,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Projecteur LED 150W IP66,7.0,107.18,750.26,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1106.68,1106.68,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Techni-Elec 74,Disjoncteur différentiel 30mA,4.0,70.49,281.96,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Bâti-Pro Alpes,Panneau PV 425Wc,2.0,159.86,319.72,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Industries Rhône SAS,Panneau PV 425Wc,3.0,154.83,464.49,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Mairie de Cognin,Dalle LED 600x600 36W,1.0,63.12,63.12,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,ETS DUMONT & FILS,Disjoncteur modulaire 16A,8.0,11.85,94.8,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-17,Techni-Elec 74,Dalle LED 600x600 36W,6.0,60.39,362.34,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,lundi
+2026-08-18,Mairie de Cognin,Disjoncteur modulaire 16A,7.0,12.75,89.25,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,2.0,639.47,1278.94,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Bâti-Pro Alpes,Disjoncteur modulaire 16A,18.0,12.76,229.68,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,CCI Savoie,Onduleur hybride 5kW,1.0,1117.4,1117.4,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,1.0,90.93,90.93,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,CCI Savoie,Gants isolants classe 00,2.0,85.43,170.86,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,Alpes Energies Nouvelles,Borne de recharge 7.4kW,2.0,609.26,1218.52,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,6.0,94.48,566.88,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,ELEC SAVOIE,Disjoncteur différentiel 30mA,7.0,70.74,495.18,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,Domaine Skiable Courchevel,Panneau PV 425Wc,4.0,154.56,618.24,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,Industries Rhône SAS,Coffret 3 rangées 39 modules,2.0,91.55,183.1,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,CCI Savoie,Borne de recharge 7.4kW,1.0,562.29,562.29,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Techni-Elec 74,Gaine ICTA Ø20 100m,6.0,36.69,220.14,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,5.0,92.91,464.55,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Mairie de Cognin,Multimètre TRMS CAT III,5.0,137.28,686.4,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,GRENOBLE HABITAT,Panneau PV 425Wc,3.0,150.45,451.35,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,CCI Savoie,Coffret 3 rangées 39 modules,3.0,88.22,264.66,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-18,Bâti-Pro Alpes,Onduleur hybride 5kW,1.0,1097.64,1097.64,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Bâti-Pro Alpes,Multimètre TRMS CAT III,2.0,131.98,263.96,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Techni-Elec 74,Panneau PV 425Wc,2.0,145.11,290.22,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Bâti-Pro Alpes,Gaine ICTA Ø20 100m,10.0,35.81,358.1,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Voltalp Installation,Projecteur LED 150W IP66,4.0,112.15,448.6,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,4.0,156.85,627.4,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,3.0,158.0,474.0,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mardi
+2026-08-18,Mairie de Cognin,Borne de recharge 7.4kW,2.0,592.54,1185.08,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mardi
+2026-08-19,Voltalp Installation,Gaine ICTA Ø20 100m,3.0,35.2,105.6,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Techni-Elec 74,Coffret 3 rangées 39 modules,4.0,90.18,360.72,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,ELEC SAVOIE,Multimètre TRMS CAT III,1.0,129.07,129.07,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,5.0,153.84,769.2,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Dalle LED 600x600 36W,2.0,62.52,125.04,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Voltalp Installation,Borne de recharge 7.4kW,5.0,618.7,3093.5,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Dalle LED 600x600 36W,6.0,61.98,371.88,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,ETS DUMONT & FILS,Onduleur hybride 5kW,3.0,1109.59,3328.77,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Mairie de Cognin,Panneau PV 425Wc,4.0,151.08,604.32,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Voltalp Installation,Onduleur hybride 5kW,5.0,1084.21,5421.05,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Projecteur LED 150W IP66,4.0,109.13,436.52,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,CCI Savoie,Disjoncteur différentiel 30mA,6.0,70.3,421.8,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Industries Rhône SAS,Disjoncteur différentiel 30mA,5.0,76.47,382.35,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,3.0,70.77,212.31,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Dalle LED 600x600 36W,12.0,56.03,672.36,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Disjoncteur modulaire 16A,12.0,12.22,146.64,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,8.0,35.05,280.4,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,ELEC SAVOIE,Coffret 3 rangées 39 modules,5.0,93.69,468.45,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Bâti-Pro Alpes,Onduleur hybride 5kW,1.0,1111.06,1111.06,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Industries Rhône SAS,Onduleur hybride 5kW,2.0,1139.52,2279.04,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Alpes Energies Nouvelles,Multimètre TRMS CAT III,4.0,134.5,538.0,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Bâti-Pro Alpes,Gaine ICTA Ø20 100m,8.0,35.68,285.44,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,mercredi
+2026-08-19,Industries Rhône SAS,Gaine ICTA Ø20 100m,4.0,37.97,151.88,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,CCI Savoie,Panneau PV 425Wc,3.0,152.07,456.21,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,SARL MONTBLANC ELEC,Coffret 3 rangées 39 modules,1.0,96.33,96.33,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,3.0,73.53,220.59,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,1.0,159.03,159.03,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,CCI Savoie,Disjoncteur différentiel 30mA,6.0,72.73,436.38,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1060.24,1060.24,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-19,GRENOBLE HABITAT,Disjoncteur différentiel 30mA,6.0,70.47,422.82,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,mercredi
+2026-08-20,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,3.0,158.69,476.07,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,GRENOBLE HABITAT,Borne de recharge 7.4kW,1.0,606.23,606.23,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,CCI Savoie,Onduleur hybride 5kW,1.0,1105.34,1105.34,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,2.0,147.69,295.38,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Mairie de Cognin,Coffret 3 rangées 39 modules,4.0,91.11,364.44,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,618.39,618.39,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,9.0,60.83,547.47,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,1.0,155.56,155.56,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Bâti-Pro Alpes,Panneau PV 425Wc,2.0,155.31,310.62,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,GRENOBLE HABITAT,Disjoncteur différentiel 30mA,3.0,74.01,222.03,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Mairie de Cognin,Gants isolants classe 00,7.0,84.14,588.98,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,639.47,639.47,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,ELEC SAVOIE,Disjoncteur modulaire 16A,13.0,12.57,163.41,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,jeudi
+2026-08-20,Techni-Elec 74,Disjoncteur modulaire 16A,10.0,12.95,129.5,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Voltalp Installation,Onduleur hybride 5kW,1.0,1079.46,1079.46,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Mairie de Cognin,Borne de recharge 7.4kW,1.0,634.44,634.44,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Industries Rhône SAS,Multimètre TRMS CAT III,3.0,146.93,440.79,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Industries Rhône SAS,Gaine ICTA Ø20 100m,8.0,35.07,280.56,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Techni-Elec 74,Onduleur hybride 5kW,1.0,1084.76,1084.76,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,4.0,84.2,336.8,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Domaine Skiable Courchevel,Gants isolants classe 00,4.0,84.65,338.6,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,CCI Savoie,Disjoncteur différentiel 30mA,3.0,75.3,225.9,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-20,Mairie de Cognin,Panneau PV 425Wc,3.0,153.26,459.78,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,jeudi
+2026-08-21,CCI Savoie,Projecteur LED 150W IP66,4.0,106.29,425.16,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Voltalp Installation,Dalle LED 600x600 36W,7.0,61.56,430.92,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,Bâti-Pro Alpes,Disjoncteur modulaire 16A,9.0,11.91,107.19,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Techni-Elec 74,Borne de recharge 7.4kW,4.0,618.84,2475.36,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Domaine Skiable Courchevel,Borne de recharge 7.4kW,1.0,637.21,637.21,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,ELEC SAVOIE,Panneau PV 425Wc,1.0,151.4,151.4,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,4.0,73.25,293.0,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Industries Rhône SAS,Onduleur hybride 5kW,1.0,1094.14,1094.14,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,2.0,113.43,226.86,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,Techni-Elec 74,Dalle LED 600x600 36W,3.0,63.06,189.18,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,ETS DUMONT & FILS,Multimètre TRMS CAT III,1.0,145.11,145.11,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,CCI Savoie,Onduleur hybride 5kW,2.0,1018.1,2036.2,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,12.0,63.98,767.76,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,SARL MONTBLANC ELEC,Panneau PV 425Wc,3.0,157.59,472.77,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Voltalp Installation,Dalle LED 600x600 36W,2.0,57.67,115.34,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,1.0,557.45,557.45,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,vendredi
+2026-08-21,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,12.0,35.71,428.52,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,6.0,72.05,432.3,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-21,Mairie de Cognin,Panneau PV 425Wc,3.0,148.75,446.25,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,vendredi
+2026-08-22,Alpes Energies Nouvelles,Panneau PV 425Wc,4.0,162.03,648.12,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,Domaine Skiable Courchevel,Coffret 3 rangées 39 modules,3.0,92.68,278.04,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Industries Rhône SAS,Disjoncteur différentiel 30mA,2.0,71.06,142.12,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,6.0,75.85,455.1,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Projecteur LED 150W IP66,4.0,101.34,405.36,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,SARL MONTBLANC ELEC,Gants isolants classe 00,1.0,80.48,80.48,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Industries Rhône SAS,Coffret 3 rangées 39 modules,7.0,91.95,643.65,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Mairie de Cognin,Projecteur LED 150W IP66,2.0,111.72,223.44,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Industries Rhône SAS,Onduleur hybride 5kW,1.0,1051.32,1051.32,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,5.0,155.04,775.2,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Gants isolants classe 00,3.0,84.8,254.4,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,4.0,158.4,633.6,Blanc,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Industries Rhône SAS,Câble U-1000 R2V 3G2.5 100m,4.0,156.77,627.08,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,Techni-Elec 74,Borne de recharge 7.4kW,3.0,611.66,1834.98,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,3.0,155.48,466.44,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Bâti-Pro Alpes,Panneau PV 425Wc,3.0,155.89,467.67,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Panneau PV 425Wc,4.0,155.66,622.64,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ETS DUMONT & FILS,Dalle LED 600x600 36W,4.0,63.69,254.76,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,ETS DUMONT & FILS,Panneau PV 425Wc,1.0,160.26,160.26,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Domaine Skiable Courchevel,Onduleur hybride 5kW,2.0,1034.64,2069.28,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,3.0,159.34,478.02,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Voltalp Installation,Disjoncteur différentiel 30mA,4.0,72.06,288.24,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,GRENOBLE HABITAT,Dalle LED 600x600 36W,2.0,59.31,118.62,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,4.0,36.87,147.48,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,Domaine Skiable Courchevel,Multimètre TRMS CAT III,3.0,133.48,400.44,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,2.0,155.72,311.44,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,6.0,147.85,887.1,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1113.16,1113.16,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,samedi
+2026-08-22,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,6.0,34.83,208.98,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,samedi
+2026-08-23,CCI Savoie,Onduleur hybride 5kW,3.0,1084.39,3253.17,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Industries Rhône SAS,Multimètre TRMS CAT III,4.0,146.11,584.44,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,ELEC SAVOIE,Gaine ICTA Ø20 100m,2.0,36.68,73.36,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Domaine Skiable Courchevel,Onduleur hybride 5kW,1.0,1063.03,1063.03,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Bâti-Pro Alpes,Panneau PV 425Wc,3.0,153.59,460.77,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Techni-Elec 74,Disjoncteur modulaire 16A,3.0,12.49,37.47,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,CCI Savoie,Gaine ICTA Ø20 100m,4.0,35.95,143.8,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Alpes Energies Nouvelles,Disjoncteur modulaire 16A,8.0,13.55,108.4,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,GRENOBLE HABITAT,Multimètre TRMS CAT III,3.0,137.77,413.31,Sophie,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Mairie de Cognin,Dalle LED 600x600 36W,7.0,60.33,422.31,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,5.0,164.1,820.5,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Domaine Skiable Courchevel,Panneau PV 425Wc,1.0,152.07,152.07,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Mairie de Cognin,Gaine ICTA Ø20 100m,4.0,37.97,151.88,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Mairie de Cognin,Disjoncteur modulaire 16A,7.0,13.07,91.49,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,2.0,106.63,213.26,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Mairie de Cognin,Gants isolants classe 00,3.0,84.8,254.4,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,6.0,90.05,540.3,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,3.0,164.1,492.3,Perrin,Chambéry,ventes chambery s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Industries Rhône SAS,Coffret 3 rangées 39 modules,2.0,90.08,180.16,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,1.0,96.97,96.97,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Techni-Elec 74,Disjoncteur différentiel 30mA,4.0,71.64,286.56,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Bâti-Pro Alpes,Gants isolants classe 00,2.0,83.33,166.66,Meyer,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,GRENOBLE HABITAT,Dalle LED 600x600 36W,4.0,60.27,241.08,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,CCI Savoie,Onduleur hybride 5kW,1.0,1124.1,1124.1,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,ELEC SAVOIE,Projecteur LED 150W IP66,2.0,101.34,202.68,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,3.0,152.5,457.5,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Techni-Elec 74,Borne de recharge 7.4kW,1.0,595.92,595.92,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,Bâti-Pro Alpes,Panneau PV 425Wc,2.0,162.03,324.06,Fournier,Grenoble,ventes grenoble s34 (copie).xlsx,34,2026,34,2026-S34,dimanche
+2026-08-23,Techni-Elec 74,Onduleur hybride 5kW,1.0,1023.93,1023.93,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-23,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1063.93,1063.93,Roux,Annecy,VENTES-ANNECY-20260817.xlsx,,2026,34,2026-S34,dimanche
+2026-08-24,SARL MONTBLANC ELEC,Panneau PV 425Wc,4.0,146.4,585.6,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,lundi
+2026-08-24,SARL MONTBLANC ELEC,Gants isolants classe 00,3.0,85.52,256.56,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,CCI Savoie,Gants isolants classe 00,4.0,84.71,338.84,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,GRENOBLE HABITAT,Borne de recharge 7.4kW,1.0,584.02,584.02,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,ETS DUMONT & FILS,Borne de recharge 7.4kW,3.0,621.72,1865.16,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,lundi
+2026-08-24,Bâti-Pro Alpes,Dalle LED 600x600 36W,6.0,60.45,362.7,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,SARL MONTBLANC ELEC,Coffret 3 rangées 39 modules,4.0,94.1,376.4,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,Voltalp Installation,Coffret 3 rangées 39 modules,3.0,93.59,280.77,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Voltalp Installation,Borne de recharge 7.4kW,1.0,639.47,639.47,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Domaine Skiable Courchevel,Gants isolants classe 00,1.0,85.53,85.53,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Voltalp Installation,Gaine ICTA Ø20 100m,7.0,36.86,258.02,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1137.75,1137.75,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,lundi
+2026-08-24,ELEC SAVOIE,Gaine ICTA Ø20 100m,7.0,35.55,248.85,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1070.58,1070.58,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,1.0,155.63,155.63,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Domaine Skiable Courchevel,Dalle LED 600x600 36W,8.0,62.32,498.56,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,ELEC SAVOIE,Multimètre TRMS CAT III,4.0,135.07,540.28,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,5.0,37.97,189.85,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,lundi
+2026-08-24,Alpes Energies Nouvelles,Multimètre TRMS CAT III,3.0,140.29,420.87,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Voltalp Installation,Panneau PV 425Wc,3.0,146.54,439.62,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-24,Mairie de Cognin,Disjoncteur différentiel 30mA,5.0,72.07,360.35,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,lundi
+2026-08-25,CCI Savoie,Disjoncteur différentiel 30mA,2.0,72.43,144.86,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,7.0,69.66,487.62,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,ELEC SAVOIE,Disjoncteur différentiel 30mA,6.0,73.44,440.64,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mardi
+2026-08-25,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,7.0,90.7,634.9,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,ELEC SAVOIE,Borne de recharge 7.4kW,2.0,586.11,1172.22,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,Bâti-Pro Alpes,Panneau PV 425Wc,3.0,159.32,477.96,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,Techni-Elec 74,Disjoncteur modulaire 16A,13.0,12.13,157.69,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,ETS DUMONT & FILS,Disjoncteur modulaire 16A,8.0,12.81,102.48,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,5.0,73.49,367.45,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,SARL MONTBLANC ELEC,Onduleur hybride 5kW,1.0,1032.29,1032.29,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mardi
+2026-08-25,ETS DUMONT & FILS,Gants isolants classe 00,5.0,85.38,426.9,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,Voltalp Installation,Projecteur LED 150W IP66,1.0,106.65,106.65,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mardi
+2026-08-25,Mairie de Cognin,Panneau PV 425Wc,3.0,150.57,451.71,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Voltalp Installation,Projecteur LED 150W IP66,3.0,110.4,331.2,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Bâti-Pro Alpes,Onduleur hybride 5kW,1.0,1144.64,1144.64,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,CCI Savoie,Multimètre TRMS CAT III,5.0,135.2,676.0,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,GRENOBLE HABITAT,Dalle LED 600x600 36W,5.0,64.2,321.0,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Techni-Elec 74,Gants isolants classe 00,3.0,80.19,240.57,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Domaine Skiable Courchevel,Dalle LED 600x600 36W,2.0,62.55,125.1,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Mairie de Cognin,Dalle LED 600x600 36W,6.0,60.53,363.18,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Techni-Elec 74,Borne de recharge 7.4kW,1.0,608.78,608.78,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-25,Bâti-Pro Alpes,Disjoncteur modulaire 16A,10.0,13.33,133.3,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mardi
+2026-08-26,CCI Savoie,Gants isolants classe 00,7.0,83.13,581.91,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mercredi
+2026-08-26,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,9.0,70.5,634.5,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,Techni-Elec 74,Borne de recharge 7.4kW,3.0,617.98,1853.94,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,ETS DUMONT & FILS,Multimètre TRMS CAT III,2.0,139.73,279.46,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,7.0,153.46,1074.22,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,Industries Rhône SAS,Gants isolants classe 00,9.0,84.91,764.19,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,3.0,63.95,191.85,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,4.0,153.85,615.4,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,Bâti-Pro Alpes,Câble U-1000 R2V 3G2.5 100m,5.0,163.36,816.8,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,CCI Savoie,Coffret 3 rangées 39 modules,3.0,91.56,274.68,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,2.0,155.75,311.5,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mercredi
+2026-08-26,GRENOBLE HABITAT,Gants isolants classe 00,2.0,81.43,162.86,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,ELEC SAVOIE,Disjoncteur modulaire 16A,17.0,13.45,228.65,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,Bâti-Pro Alpes,Gants isolants classe 00,3.0,85.82,257.46,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mercredi
+2026-08-26,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,6.0,13.07,78.42,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-26,GRENOBLE HABITAT,Dalle LED 600x600 36W,6.0,56.73,340.38,Blanc,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,mercredi
+2026-08-26,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,2.0,588.83,1177.66,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,mercredi
+2026-08-26,Voltalp Installation,Coffret 3 rangées 39 modules,4.0,89.77,359.08,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,mercredi
+2026-08-27,Voltalp Installation,Onduleur hybride 5kW,1.0,1079.3,1079.3,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,12.0,12.83,153.96,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,Techni-Elec 74,Coffret 3 rangées 39 modules,5.0,91.49,457.45,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,ELEC SAVOIE,Borne de recharge 7.4kW,1.0,594.76,594.76,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Domaine Skiable Courchevel,Panneau PV 425Wc,3.0,150.52,451.56,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Industries Rhône SAS,Multimètre TRMS CAT III,4.0,135.25,541.0,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,595.75,595.75,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Techni-Elec 74,Gaine ICTA Ø20 100m,4.0,37.97,151.88,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,Bâti-Pro Alpes,Panneau PV 425Wc,7.0,162.03,1134.21,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,SARL MONTBLANC ELEC,Onduleur hybride 5kW,3.0,1055.55,3166.65,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,GRENOBLE HABITAT,Projecteur LED 150W IP66,7.0,113.43,794.01,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Industries Rhône SAS,Dalle LED 600x600 36W,7.0,60.13,420.91,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,jeudi
+2026-08-27,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,4.0,156.37,625.48,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,ELEC SAVOIE,Coffret 3 rangées 39 modules,5.0,92.0,460.0,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,Techni-Elec 74,Borne de recharge 7.4kW,3.0,628.19,1884.57,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Voltalp Installation,Borne de recharge 7.4kW,2.0,622.7,1245.4,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Mairie de Cognin,Dalle LED 600x600 36W,6.0,60.8,364.8,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Domaine Skiable Courchevel,Borne de recharge 7.4kW,1.0,600.98,600.98,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,jeudi
+2026-08-27,Industries Rhône SAS,Dalle LED 600x600 36W,4.0,62.03,248.12,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,jeudi
+2026-08-27,Industries Rhône SAS,Projecteur LED 150W IP66,6.0,105.3,631.8,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,4.0,161.52,646.08,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,jeudi
+2026-08-27,Industries Rhône SAS,Borne de recharge 7.4kW,4.0,613.37,2453.48,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,jeudi
+2026-08-28,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,2.0,91.38,182.76,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Projecteur LED 150W IP66,2.0,106.83,213.66,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,7.0,36.35,254.45,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Dalle LED 600x600 36W,4.0,62.83,251.32,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,vendredi
+2026-08-28,Industries Rhône SAS,Multimètre TRMS CAT III,3.0,137.67,413.01,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Domaine Skiable Courchevel,Multimètre TRMS CAT III,3.0,138.47,415.41,Blanc,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,vendredi
+2026-08-28,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,3.0,153.02,459.06,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,ETS DUMONT & FILS,Disjoncteur modulaire 16A,14.0,12.91,180.74,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Disjoncteur différentiel 30mA,6.0,70.7,424.2,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,GRENOBLE HABITAT,Disjoncteur modulaire 16A,10.0,13.46,134.6,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,2.0,92.01,184.02,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Panneau PV 425Wc,4.0,151.98,607.92,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,GRENOBLE HABITAT,Disjoncteur différentiel 30mA,9.0,70.73,636.57,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Domaine Skiable Courchevel,Dalle LED 600x600 36W,5.0,63.03,315.15,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Techni-Elec 74,Gaine ICTA Ø20 100m,7.0,35.58,249.06,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,CCI Savoie,Gants isolants classe 00,6.0,80.09,480.54,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Bâti-Pro Alpes,Disjoncteur différentiel 30mA,5.0,71.49,357.45,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Voltalp Installation,Multimètre TRMS CAT III,3.0,145.78,437.34,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,1.0,152.12,152.12,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Voltalp Installation,Borne de recharge 7.4kW,1.0,606.96,606.96,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Alpes Energies Nouvelles,Borne de recharge 7.4kW,1.0,588.57,588.57,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,CCI Savoie,Projecteur LED 150W IP66,5.0,110.15,550.75,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Industries Rhône SAS,Gaine ICTA Ø20 100m,5.0,35.89,179.45,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,vendredi
+2026-08-28,Voltalp Installation,Borne de recharge 7.4kW,4.0,610.04,2440.16,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Onduleur hybride 5kW,1.0,1072.34,1072.34,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,Mairie de Cognin,Borne de recharge 7.4kW,1.0,570.78,570.78,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-28,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,10.0,36.67,366.7,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,vendredi
+2026-08-29,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,11.0,37.13,408.43,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,GRENOBLE HABITAT,Dalle LED 600x600 36W,4.0,61.64,246.56,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,1.0,71.41,71.41,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,GRENOBLE HABITAT,Disjoncteur modulaire 16A,20.0,13.03,260.6,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,Alpes Energies Nouvelles,Panneau PV 425Wc,1.0,156.98,156.98,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,GRENOBLE HABITAT,Gants isolants classe 00,8.0,83.74,669.92,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,5.0,150.08,750.4,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,3.0,35.78,107.34,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,4.0,150.36,601.44,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Mairie de Cognin,Gants isolants classe 00,1.0,88.14,88.14,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,1.0,36.49,36.49,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,samedi
+2026-08-29,SARL MONTBLANC ELEC,Onduleur hybride 5kW,2.0,1007.88,2015.76,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,samedi
+2026-08-29,Domaine Skiable Courchevel,Gants isolants classe 00,2.0,82.86,165.72,Perrin,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,samedi
+2026-08-29,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,4.0,74.81,299.24,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,samedi
+2026-08-29,CCI Savoie,Dalle LED 600x600 36W,7.0,61.4,429.8,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,Bâti-Pro Alpes,Disjoncteur modulaire 16A,12.0,12.81,153.72,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Bâti-Pro Alpes,Multimètre TRMS CAT III,1.0,141.64,141.64,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Domaine Skiable Courchevel,Panneau PV 425Wc,4.0,154.62,618.48,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,Mairie de Cognin,Coffret 3 rangées 39 modules,3.0,92.19,276.57,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Techni-Elec 74,Disjoncteur modulaire 16A,11.0,12.83,141.13,Meyer,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,samedi
+2026-08-29,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1064.74,1064.74,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Techni-Elec 74,Disjoncteur différentiel 30mA,1.0,68.8,68.8,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,7.0,37.97,265.79,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-29,Domaine Skiable Courchevel,Panneau PV 425Wc,4.0,157.06,628.24,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,samedi
+2026-08-30,Domaine Skiable Courchevel,Projecteur LED 150W IP66,7.0,102.95,720.65,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,Techni-Elec 74,Disjoncteur différentiel 30mA,2.0,73.51,147.02,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,1.0,590.59,590.59,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,ELEC SAVOIE,Gaine ICTA Ø20 100m,6.0,35.57,213.42,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,5.0,90.18,450.9,Blanc,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,dimanche
+2026-08-30,Domaine Skiable Courchevel,Panneau PV 425Wc,2.0,153.1,306.2,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Alpes Energies Nouvelles,Panneau PV 425Wc,2.0,151.85,303.7,Blanc,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,dimanche
+2026-08-30,ETS DUMONT & FILS,Gants isolants classe 00,3.0,83.53,250.59,Sophie,Non identifiée,caisse_comptoir_S35.csv,35,2026,35,2026-S35,dimanche
+2026-08-30,Techni-Elec 74,Borne de recharge 7.4kW,1.0,634.55,634.55,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,ETS DUMONT & FILS,Disjoncteur différentiel 30mA,5.0,74.05,370.25,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,7.0,37.78,264.46,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,Alpes Energies Nouvelles,Gants isolants classe 00,5.0,79.05,395.25,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Mairie de Cognin,Disjoncteur modulaire 16A,18.0,12.72,228.96,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,SARL MONTBLANC ELEC,Panneau PV 425Wc,1.0,158.4,158.4,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,2.0,164.1,328.2,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Alpes Energies Nouvelles,Onduleur hybride 5kW,1.0,1136.55,1136.55,Roux,Annecy,ventes_annecy_S35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Mairie de Cognin,Coffret 3 rangées 39 modules,7.0,88.45,619.15,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,11.0,12.88,141.68,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,CCI Savoie,Disjoncteur modulaire 16A,15.0,13.55,203.25,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,Domaine Skiable Courchevel,Multimètre TRMS CAT III,3.0,137.17,411.51,Sophie,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Mairie de Cognin,Disjoncteur modulaire 16A,8.0,12.05,96.4,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,3.0,134.43,403.29,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Domaine Skiable Courchevel,Coffret 3 rangées 39 modules,6.0,92.21,553.26,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Domaine Skiable Courchevel,Borne de recharge 7.4kW,2.0,605.31,1210.62,Blanc,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Mairie de Cognin,Projecteur LED 150W IP66,4.0,107.13,428.52,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,Bâti-Pro Alpes,Dalle LED 600x600 36W,6.0,62.24,373.44,Fournier,Grenoble,VENTES-GRENOBLE-20260824.xlsx,,2026,35,2026-S35,dimanche
+2026-08-30,SARL MONTBLANC ELEC,Onduleur hybride 5kW,1.0,1083.33,1083.33,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-30,Techni-Elec 74,Disjoncteur modulaire 16A,10.0,13.47,134.7,Perrin,Chambéry,Export Chambery semaine 35.xlsx,35,2026,35,2026-S35,dimanche
+2026-08-31,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,3.0,36.88,110.64,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Voltalp Installation,Panneau PV 425Wc,6.0,157.95,947.7,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,CCI Savoie,Gaine ICTA Ø20 100m,7.0,37.39,261.73,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,ETS DUMONT & FILS,Dalle LED 600x600 36W,7.0,60.46,423.22,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Techni-Elec 74,Panneau PV 425Wc,7.0,155.17,1086.19,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Industries Rhône SAS,Onduleur hybride 5kW,1.0,1135.65,1135.65,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,1.0,151.82,151.82,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,3.0,63.35,190.05,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,GRENOBLE HABITAT,Borne de recharge 7.4kW,2.0,639.47,1278.94,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Techni-Elec 74,Disjoncteur modulaire 16A,16.0,12.79,204.64,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,ELEC SAVOIE,Disjoncteur différentiel 30mA,3.0,72.64,217.92,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Domaine Skiable Courchevel,Borne de recharge 7.4kW,1.0,599.63,599.63,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,GRENOBLE HABITAT,Borne de recharge 7.4kW,1.0,639.47,639.47,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Mairie de Cognin,Onduleur hybride 5kW,1.0,1094.93,1094.93,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Mairie de Cognin,Disjoncteur différentiel 30mA,3.0,72.2,216.6,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Industries Rhône SAS,Borne de recharge 7.4kW,1.0,602.43,602.43,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,4.0,36.88,147.52,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Domaine Skiable Courchevel,Panneau PV 425Wc,2.0,159.22,318.44,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Industries Rhône SAS,Gaine ICTA Ø20 100m,9.0,35.54,319.86,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Industries Rhône SAS,Onduleur hybride 5kW,1.0,1077.69,1077.69,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,4.0,142.14,568.56,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Techni-Elec 74,Panneau PV 425Wc,3.0,156.6,469.8,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,CCI Savoie,Borne de recharge 7.4kW,3.0,578.55,1735.65,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-08-31,Industries Rhône SAS,Projecteur LED 150W IP66,2.0,103.44,206.88,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Voltalp Installation,Coffret 3 rangées 39 modules,6.0,95.15,570.9,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,lundi
+2026-08-31,Voltalp Installation,Coffret 3 rangées 39 modules,3.0,84.49,253.47,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,lundi
+2026-09-01,Domaine Skiable Courchevel,Dalle LED 600x600 36W,5.0,63.01,315.05,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mardi
+2026-09-01,Voltalp Installation,Disjoncteur différentiel 30mA,1.0,70.95,70.95,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mardi
+2026-09-01,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,3.0,161.92,485.76,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mardi
+2026-09-01,GRENOBLE HABITAT,Panneau PV 425Wc,5.0,162.03,810.15,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mardi
+2026-09-01,Mairie de Cognin,Disjoncteur modulaire 16A,10.0,13.0,130.0,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Domaine Skiable Courchevel,Borne de recharge 7.4kW,1.0,608.59,608.59,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Voltalp Installation,Borne de recharge 7.4kW,1.0,583.47,583.47,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,5.0,146.91,734.55,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,ETS DUMONT & FILS,Panneau PV 425Wc,5.0,154.61,773.05,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,CCI Savoie,Disjoncteur modulaire 16A,9.0,12.38,111.42,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Alpes Energies Nouvelles,Panneau PV 425Wc,4.0,154.38,617.52,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Techni-Elec 74,Dalle LED 600x600 36W,7.0,63.6,445.2,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Industries Rhône SAS,Câble U-1000 R2V 3G2.5 100m,2.0,160.19,320.38,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,Voltalp Installation,Gaine ICTA Ø20 100m,5.0,36.53,182.65,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,9.0,12.92,116.28,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-01,ELEC SAVOIE,Dalle LED 600x600 36W,6.0,62.01,372.06,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mardi
+2026-09-02,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,1.0,159.75,159.75,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Industries Rhône SAS,Multimètre TRMS CAT III,3.0,143.57,430.71,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,SARL MONTBLANC ELEC,Panneau PV 425Wc,5.0,156.05,780.25,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,Industries Rhône SAS,Multimètre TRMS CAT III,3.0,139.67,419.01,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Bâti-Pro Alpes,Multimètre TRMS CAT III,6.0,136.07,816.42,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,Mairie de Cognin,Projecteur LED 150W IP66,2.0,113.43,226.86,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Industries Rhône SAS,Projecteur LED 150W IP66,4.0,110.62,442.48,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,1.0,73.53,73.53,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,ELEC SAVOIE,Disjoncteur différentiel 30mA,4.0,73.59,294.36,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Alpes Energies Nouvelles,Projecteur LED 150W IP66,1.0,108.66,108.66,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,12.0,12.56,150.72,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Mairie de Cognin,Disjoncteur modulaire 16A,15.0,12.46,186.9,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1053.69,1053.69,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,CCI Savoie,Disjoncteur différentiel 30mA,2.0,75.1,150.2,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,Alpes Energies Nouvelles,Projecteur LED 150W IP66,2.0,103.53,207.06,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,SARL MONTBLANC ELEC,Gants isolants classe 00,4.0,81.28,325.12,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,mercredi
+2026-09-02,CCI Savoie,Câble U-1000 R2V 3G2.5 100m,2.0,151.14,302.28,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Bâti-Pro Alpes,Onduleur hybride 5kW,2.0,1107.29,2214.58,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Domaine Skiable Courchevel,Panneau PV 425Wc,3.0,154.54,463.62,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,GRENOBLE HABITAT,Projecteur LED 150W IP66,3.0,105.74,317.22,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,Techni-Elec 74,Dalle LED 600x600 36W,5.0,62.09,310.45,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,ELEC SAVOIE,Disjoncteur différentiel 30mA,6.0,73.4,440.4,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,4.0,149.41,597.64,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,GRENOBLE HABITAT,Disjoncteur différentiel 30mA,6.0,71.69,430.14,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-02,CCI Savoie,Onduleur hybride 5kW,1.0,1111.07,1111.07,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,mercredi
+2026-09-03,CCI Savoie,Disjoncteur différentiel 30mA,3.0,72.23,216.69,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Voltalp Installation,Panneau PV 425Wc,4.0,149.62,598.48,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,Techni-Elec 74,Projecteur LED 150W IP66,5.0,105.22,526.1,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,CCI Savoie,Onduleur hybride 5kW,1.0,1059.33,1059.33,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,4.0,158.12,632.48,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,Mairie de Cognin,Gants isolants classe 00,4.0,80.99,323.96,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,ELEC SAVOIE,Borne de recharge 7.4kW,1.0,595.98,595.98,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,Alpes Energies Nouvelles,Dalle LED 600x600 36W,8.0,64.62,516.96,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Voltalp Installation,Panneau PV 425Wc,1.0,159.26,159.26,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Industries Rhône SAS,Câble U-1000 R2V 3G2.5 100m,5.0,163.8,819.0,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,ELEC SAVOIE,Multimètre TRMS CAT III,3.0,139.04,417.12,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Industries Rhône SAS,Câble U-1000 R2V 3G2.5 100m,2.0,157.02,314.04,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1080.67,1080.67,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Mairie de Cognin,Disjoncteur modulaire 16A,9.0,13.55,121.95,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Voltalp Installation,Projecteur LED 150W IP66,3.0,102.28,306.84,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,GRENOBLE HABITAT,Panneau PV 425Wc,3.0,159.0,477.0,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,CCI Savoie,Coffret 3 rangées 39 modules,3.0,93.43,280.29,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,Industries Rhône SAS,Projecteur LED 150W IP66,3.0,109.21,327.63,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1080.41,1080.41,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,jeudi
+2026-09-03,CCI Savoie,Borne de recharge 7.4kW,2.0,576.42,1152.84,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Bâti-Pro Alpes,Gaine ICTA Ø20 100m,6.0,36.38,218.28,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,2.0,87.24,174.48,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Domaine Skiable Courchevel,Multimètre TRMS CAT III,2.0,143.07,286.14,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,3.0,143.41,430.23,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Techni-Elec 74,Disjoncteur modulaire 16A,6.0,12.45,74.7,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Bâti-Pro Alpes,Multimètre TRMS CAT III,2.0,144.53,289.06,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-03,Alpes Energies Nouvelles,Onduleur hybride 5kW,1.0,1089.31,1089.31,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,jeudi
+2026-09-04,ELEC SAVOIE,Coffret 3 rangées 39 modules,3.0,89.41,268.23,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Bâti-Pro Alpes,Multimètre TRMS CAT III,1.0,139.42,139.42,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,Domaine Skiable Courchevel,Panneau PV 425Wc,1.0,154.52,154.52,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,Bâti-Pro Alpes,Panneau PV 425Wc,4.0,151.69,606.76,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,Voltalp Installation,Multimètre TRMS CAT III,4.0,131.93,527.72,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,ELEC SAVOIE,Disjoncteur modulaire 16A,10.0,11.8,118.0,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Alpes Energies Nouvelles,Disjoncteur modulaire 16A,13.0,12.52,162.76,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,Voltalp Installation,Multimètre TRMS CAT III,3.0,136.67,410.01,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,ETS DUMONT & FILS,Onduleur hybride 5kW,1.0,1063.98,1063.98,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,Techni-Elec 74,Dalle LED 600x600 36W,3.0,62.16,186.48,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-04,SARL MONTBLANC ELEC,Borne de recharge 7.4kW,2.0,573.03,1146.06,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Mairie de Cognin,Borne de recharge 7.4kW,1.0,617.7,617.7,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,6.0,34.84,209.04,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,7.0,134.92,944.44,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Techni-Elec 74,Onduleur hybride 5kW,1.0,1060.29,1060.29,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,7.0,87.83,614.81,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,ELEC SAVOIE,Onduleur hybride 5kW,2.0,1113.54,2227.08,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,8.0,129.85,1038.8,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,vendredi
+2026-09-04,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,2.0,156.92,313.84,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,vendredi
+2026-09-05,Alpes Energies Nouvelles,Panneau PV 425Wc,2.0,152.18,304.36,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,samedi
+2026-09-05,Voltalp Installation,Disjoncteur modulaire 16A,11.0,12.85,141.35,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,ETS DUMONT & FILS,Panneau PV 425Wc,3.0,157.12,471.36,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Domaine Skiable Courchevel,Gants isolants classe 00,3.0,84.61,253.83,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,SARL MONTBLANC ELEC,Gants isolants classe 00,10.0,86.23,862.3,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Panneau PV 425Wc,1.0,148.29,148.29,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,2.0,71.26,142.52,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Disjoncteur différentiel 30mA,6.0,69.88,419.28,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Alpes Energies Nouvelles,Borne de recharge 7.4kW,1.0,598.8,598.8,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Onduleur hybride 5kW,2.0,1140.12,2280.24,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Mairie de Cognin,Dalle LED 600x600 36W,5.0,60.7,303.5,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Techni-Elec 74,Gaine ICTA Ø20 100m,10.0,36.92,369.2,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,ELEC SAVOIE,Borne de recharge 7.4kW,3.0,609.37,1828.11,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Panneau PV 425Wc,3.0,153.37,460.11,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,3.0,161.85,485.55,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Alpes Energies Nouvelles,Multimètre TRMS CAT III,2.0,139.77,279.54,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,ETS DUMONT & FILS,Dalle LED 600x600 36W,4.0,60.14,240.56,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Domaine Skiable Courchevel,Multimètre TRMS CAT III,2.0,143.52,287.04,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Domaine Skiable Courchevel,Dalle LED 600x600 36W,8.0,60.16,481.28,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,samedi
+2026-09-05,Voltalp Installation,Gaine ICTA Ø20 100m,6.0,35.8,214.8,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Panneau PV 425Wc,5.0,147.51,737.55,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,Mairie de Cognin,Disjoncteur modulaire 16A,8.0,12.73,101.84,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,ELEC SAVOIE,Coffret 3 rangées 39 modules,3.0,91.26,273.78,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,samedi
+2026-09-05,CCI Savoie,Câble U-1000 R2V 3G2.5 100m,5.0,161.38,806.9,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,samedi
+2026-09-06,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,1.0,155.98,155.98,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,ELEC SAVOIE,Multimètre TRMS CAT III,3.0,142.48,427.44,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Voltalp Installation,Coffret 3 rangées 39 modules,7.0,92.37,646.59,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Industries Rhône SAS,Panneau PV 425Wc,4.0,158.57,634.28,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Bâti-Pro Alpes,Gants isolants classe 00,3.0,84.26,252.78,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Techni-Elec 74,Disjoncteur modulaire 16A,8.0,12.69,101.52,Sophie,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,13.0,12.58,163.54,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,CCI Savoie,Projecteur LED 150W IP66,3.0,110.64,331.92,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Techni-Elec 74,Borne de recharge 7.4kW,1.0,607.36,607.36,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Industries Rhône SAS,Disjoncteur modulaire 16A,10.0,12.2,122.0,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,CCI Savoie,Gaine ICTA Ø20 100m,9.0,36.5,328.5,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Alpes Energies Nouvelles,Câble U-1000 R2V 3G2.5 100m,4.0,153.87,615.48,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Mairie de Cognin,Borne de recharge 7.4kW,1.0,583.43,583.43,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,GRENOBLE HABITAT,Borne de recharge 7.4kW,3.0,613.34,1840.02,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,7.0,76.47,535.29,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Industries Rhône SAS,Borne de recharge 7.4kW,4.0,567.2,2268.8,Meyer,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,8.0,36.44,291.52,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,5.0,105.46,527.3,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,Domaine Skiable Courchevel,Disjoncteur différentiel 30mA,1.0,70.94,70.94,Blanc,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,CCI Savoie,Coffret 3 rangées 39 modules,6.0,89.94,539.64,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,Techni-Elec 74,Gaine ICTA Ø20 100m,6.0,35.89,215.34,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,ETS DUMONT & FILS,Borne de recharge 7.4kW,1.0,610.9,610.9,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,Mairie de Cognin,Multimètre TRMS CAT III,4.0,145.67,582.68,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,5.0,37.97,189.85,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-06,Industries Rhône SAS,Dalle LED 600x600 36W,4.0,61.37,245.48,Perrin,Chambéry,ventes chambery s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,ELEC SAVOIE,Gaine ICTA Ø20 100m,10.0,34.81,348.1,Fournier,Grenoble,ventes grenoble s36 (copie).xlsx,36,2026,36,2026-S36,dimanche
+2026-09-06,Bâti-Pro Alpes,Panneau PV 425Wc,2.0,154.34,308.68,Roux,Annecy,VENTES-ANNECY-20260831.xlsx,,2026,36,2026-S36,dimanche
+2026-09-07,CCI Savoie,Multimètre TRMS CAT III,4.0,143.99,575.96,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,17.0,12.82,217.94,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Mairie de Cognin,Disjoncteur modulaire 16A,11.0,13.11,144.21,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,CCI Savoie,Multimètre TRMS CAT III,3.0,147.69,443.07,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,SARL MONTBLANC ELEC,Onduleur hybride 5kW,1.0,1079.28,1079.28,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Industries Rhône SAS,Gaine ICTA Ø20 100m,9.0,37.97,341.73,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Voltalp Installation,Gants isolants classe 00,4.0,85.9,343.6,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,1.0,156.2,156.2,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Mairie de Cognin,Dalle LED 600x600 36W,4.0,58.78,235.12,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,CCI Savoie,Projecteur LED 150W IP66,3.0,111.69,335.07,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Industries Rhône SAS,Onduleur hybride 5kW,1.0,1077.58,1077.58,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,CCI Savoie,Coffret 3 rangées 39 modules,3.0,87.23,261.69,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Industries Rhône SAS,Disjoncteur modulaire 16A,9.0,12.62,113.58,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,ELEC SAVOIE,Gants isolants classe 00,4.0,85.75,343.0,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Domaine Skiable Courchevel,Projecteur LED 150W IP66,4.0,106.99,427.96,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,CCI Savoie,Disjoncteur modulaire 16A,10.0,12.04,120.4,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Industries Rhône SAS,Projecteur LED 150W IP66,3.0,109.3,327.9,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,1.0,60.77,60.77,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,ETS DUMONT & FILS,Câble U-1000 R2V 3G2.5 100m,4.0,158.08,632.32,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,CCI Savoie,Gants isolants classe 00,2.0,86.72,173.44,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,lundi
+2026-09-07,Domaine Skiable Courchevel,Onduleur hybride 5kW,1.0,1072.95,1072.95,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,lundi
+2026-09-07,Mairie de Cognin,Gants isolants classe 00,5.0,82.29,411.45,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,lundi
+2026-09-07,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,1.0,153.29,153.29,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,lundi
+2026-09-07,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,8.0,35.81,286.48,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,lundi
+2026-09-08,CCI Savoie,Multimètre TRMS CAT III,7.0,145.21,1016.47,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,Mairie de Cognin,Multimètre TRMS CAT III,1.0,142.05,142.05,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,Alpes Energies Nouvelles,Onduleur hybride 5kW,1.0,1129.27,1129.27,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,Alpes Energies Nouvelles,Onduleur hybride 5kW,2.0,1137.58,2275.16,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,Industries Rhône SAS,Gants isolants classe 00,1.0,87.13,87.13,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,CCI Savoie,Gaine ICTA Ø20 100m,4.0,35.77,143.08,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,Industries Rhône SAS,Dalle LED 600x600 36W,5.0,64.62,323.1,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mardi
+2026-09-08,SARL MONTBLANC ELEC,Onduleur hybride 5kW,1.0,1118.05,1118.05,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,ETS DUMONT & FILS,Borne de recharge 7.4kW,1.0,612.88,612.88,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Techni-Elec 74,Gants isolants classe 00,4.0,83.97,335.88,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,ELEC SAVOIE,Coffret 3 rangées 39 modules,9.0,95.17,856.53,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Alpes Energies Nouvelles,Panneau PV 425Wc,2.0,149.0,298.0,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Industries Rhône SAS,Gants isolants classe 00,3.0,81.08,243.24,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,CCI Savoie,Dalle LED 600x600 36W,4.0,59.52,238.08,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Bâti-Pro Alpes,Gants isolants classe 00,5.0,87.0,435.0,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,SARL MONTBLANC ELEC,Onduleur hybride 5kW,2.0,1085.95,2171.9,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,SARL MONTBLANC ELEC,Onduleur hybride 5kW,2.0,1083.12,2166.24,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Alpes Energies Nouvelles,Panneau PV 425Wc,4.0,160.01,640.04,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,2.0,158.24,316.48,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,Techni-Elec 74,Disjoncteur différentiel 30mA,3.0,73.26,219.78,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,2.0,153.83,307.66,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mardi
+2026-09-08,SARL MONTBLANC ELEC,Gants isolants classe 00,5.0,84.0,420.0,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mardi
+2026-09-09,Domaine Skiable Courchevel,Projecteur LED 150W IP66,2.0,108.13,216.26,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Multimètre TRMS CAT III,1.0,145.96,145.96,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,GRENOBLE HABITAT,Gants isolants classe 00,8.0,81.69,653.52,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mercredi
+2026-09-09,Voltalp Installation,Borne de recharge 7.4kW,1.0,621.36,621.36,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Dalle LED 600x600 36W,4.0,57.72,230.88,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,Mairie de Cognin,Gaine ICTA Ø20 100m,8.0,36.57,292.56,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mercredi
+2026-09-09,Mairie de Cognin,Gants isolants classe 00,7.0,84.44,591.08,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Disjoncteur différentiel 30mA,2.0,72.63,145.26,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,ETS DUMONT & FILS,Gants isolants classe 00,5.0,82.96,414.8,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,4.0,76.47,305.88,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,Voltalp Installation,Gants isolants classe 00,2.0,81.7,163.4,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Borne de recharge 7.4kW,1.0,632.44,632.44,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,mercredi
+2026-09-09,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,8.0,96.97,775.76,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,GRENOBLE HABITAT,Multimètre TRMS CAT III,1.0,144.45,144.45,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Dalle LED 600x600 36W,4.0,63.54,254.16,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,CCI Savoie,Onduleur hybride 5kW,4.0,1054.43,4217.72,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-09,Mairie de Cognin,Gaine ICTA Ø20 100m,5.0,37.97,189.85,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,mercredi
+2026-09-10,Mairie de Cognin,Coffret 3 rangées 39 modules,3.0,86.86,260.58,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,jeudi
+2026-09-10,Mairie de Cognin,Multimètre TRMS CAT III,5.0,144.28,721.4,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,2.0,154.37,308.74,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,ETS DUMONT & FILS,Gants isolants classe 00,5.0,86.85,434.25,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,8.0,13.4,107.2,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Voltalp Installation,Disjoncteur différentiel 30mA,4.0,72.45,289.8,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Mairie de Cognin,Gants isolants classe 00,5.0,84.05,420.25,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Voltalp Installation,Dalle LED 600x600 36W,8.0,60.32,482.56,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,CCI Savoie,Gants isolants classe 00,2.0,87.64,175.28,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,jeudi
+2026-09-10,ETS DUMONT & FILS,Disjoncteur modulaire 16A,14.0,12.41,173.74,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,jeudi
+2026-09-10,ELEC SAVOIE,Coffret 3 rangées 39 modules,7.0,94.55,661.85,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Industries Rhône SAS,Projecteur LED 150W IP66,2.0,109.89,219.78,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,jeudi
+2026-09-10,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,8.0,92.82,742.56,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Industries Rhône SAS,Dalle LED 600x600 36W,3.0,63.25,189.75,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,jeudi
+2026-09-10,CCI Savoie,Projecteur LED 150W IP66,6.0,100.41,602.46,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,8.0,36.24,289.92,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,jeudi
+2026-09-10,Industries Rhône SAS,Panneau PV 425Wc,1.0,159.14,159.14,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,jeudi
+2026-09-11,Industries Rhône SAS,Multimètre TRMS CAT III,3.0,141.22,423.66,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,ETS DUMONT & FILS,Gants isolants classe 00,8.0,82.6,660.8,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,Voltalp Installation,Onduleur hybride 5kW,4.0,1105.9,4423.6,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,CCI Savoie,Dalle LED 600x600 36W,3.0,60.68,182.04,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,Bâti-Pro Alpes,Gaine ICTA Ø20 100m,7.0,36.39,254.73,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1035.42,1035.42,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,SARL MONTBLANC ELEC,Onduleur hybride 5kW,1.0,1099.78,1099.78,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,594.3,594.3,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,6.0,37.58,225.48,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,Industries Rhône SAS,Câble U-1000 R2V 3G2.5 100m,1.0,150.57,150.57,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,2.0,157.82,315.64,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,4.0,90.96,363.84,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,Voltalp Installation,Gaine ICTA Ø20 100m,6.0,34.31,205.86,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,Techni-Elec 74,Projecteur LED 150W IP66,5.0,106.42,532.1,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-11,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,1.0,152.73,152.73,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,vendredi
+2026-09-11,GRENOBLE HABITAT,Disjoncteur différentiel 30mA,5.0,74.81,374.05,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,vendredi
+2026-09-12,Mairie de Cognin,Gants isolants classe 00,6.0,84.88,509.28,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,CCI Savoie,Borne de recharge 7.4kW,3.0,639.47,1918.41,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,10.0,36.44,364.4,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Voltalp Installation,Panneau PV 425Wc,3.0,162.03,486.09,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,GRENOBLE HABITAT,Disjoncteur modulaire 16A,6.0,12.65,75.9,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,2.0,34.84,69.68,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Mairie de Cognin,Disjoncteur modulaire 16A,5.0,12.45,62.25,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,ELEC SAVOIE,Coffret 3 rangées 39 modules,4.0,96.53,386.12,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Alpes Energies Nouvelles,Panneau PV 425Wc,3.0,149.5,448.5,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,10.0,35.84,358.4,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,ETS DUMONT & FILS,Borne de recharge 7.4kW,2.0,639.47,1278.94,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,GRENOBLE HABITAT,Dalle LED 600x600 36W,1.0,57.93,57.93,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,5.0,161.23,806.15,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,ELEC SAVOIE,Panneau PV 425Wc,1.0,153.7,153.7,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Voltalp Installation,Dalle LED 600x600 36W,3.0,59.09,177.27,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Domaine Skiable Courchevel,Coffret 3 rangées 39 modules,3.0,86.27,258.81,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,ETS DUMONT & FILS,Multimètre TRMS CAT III,4.0,138.2,552.8,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Alpes Energies Nouvelles,Panneau PV 425Wc,3.0,158.47,475.41,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,ETS DUMONT & FILS,Borne de recharge 7.4kW,3.0,596.78,1790.34,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Voltalp Installation,Projecteur LED 150W IP66,6.0,106.56,639.36,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,Industries Rhône SAS,Panneau PV 425Wc,5.0,156.52,782.6,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,Bâti-Pro Alpes,Onduleur hybride 5kW,2.0,1051.94,2103.88,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,Mairie de Cognin,Disjoncteur modulaire 16A,15.0,13.51,202.65,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Bâti-Pro Alpes,Gants isolants classe 00,4.0,85.36,341.44,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,samedi
+2026-09-12,Industries Rhône SAS,Coffret 3 rangées 39 modules,1.0,92.88,92.88,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-12,Bâti-Pro Alpes,Disjoncteur modulaire 16A,9.0,13.55,121.95,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,samedi
+2026-09-13,CCI Savoie,Dalle LED 600x600 36W,4.0,61.98,247.92,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,GRENOBLE HABITAT,Borne de recharge 7.4kW,2.0,581.46,1162.92,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,Mairie de Cognin,Projecteur LED 150W IP66,1.0,100.68,100.68,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,8.0,36.02,288.16,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,ELEC SAVOIE,Disjoncteur modulaire 16A,7.0,13.06,91.42,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Techni-Elec 74,Onduleur hybride 5kW,1.0,1146.34,1146.34,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,SARL MONTBLANC ELEC,Câble U-1000 R2V 3G2.5 100m,4.0,155.21,620.84,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,ELEC SAVOIE,Gants isolants classe 00,5.0,81.01,405.05,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,ETS DUMONT & FILS,Borne de recharge 7.4kW,3.0,598.06,1794.18,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,ELEC SAVOIE,Coffret 3 rangées 39 modules,5.0,91.84,459.2,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,2.0,153.44,306.88,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,CCI Savoie,Disjoncteur modulaire 16A,14.0,12.86,180.04,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,SARL MONTBLANC ELEC,Coffret 3 rangées 39 modules,7.0,90.32,632.24,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Voltalp Installation,Gaine ICTA Ø20 100m,8.0,35.53,284.24,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,Mairie de Cognin,Gaine ICTA Ø20 100m,10.0,37.83,378.3,Roux,Annecy,VENTES-ANNECY-20260907.xlsx,,2026,37,2026-S37,dimanche
+2026-09-13,GRENOBLE HABITAT,Projecteur LED 150W IP66,4.0,112.21,448.84,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,3.0,149.89,449.67,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Industries Rhône SAS,Coffret 3 rangées 39 modules,6.0,94.68,568.08,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Bâti-Pro Alpes,Disjoncteur différentiel 30mA,6.0,74.27,445.62,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,ETS DUMONT & FILS,Onduleur hybride 5kW,2.0,1092.96,2185.92,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,ETS DUMONT & FILS,Gants isolants classe 00,4.0,80.45,321.8,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Voltalp Installation,Disjoncteur modulaire 16A,12.0,12.67,152.04,Sophie,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Industries Rhône SAS,Panneau PV 425Wc,3.0,151.62,454.86,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,GRENOBLE HABITAT,Onduleur hybride 5kW,2.0,1055.9,2111.8,Fournier,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,4.0,60.93,243.72,Blanc,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,5.0,110.99,554.95,Meyer,Grenoble,Export Grenoble semaine 37.xlsx,37,2026,37,2026-S37,dimanche
+2026-09-13,Domaine Skiable Courchevel,Multimètre TRMS CAT III,5.0,143.48,717.4,Perrin,Chambéry,ventes chambery s37 (copie).xlsx,37,2026,37,2026-S37,dimanche
+2026-09-14,SARL MONTBLANC ELEC,Coffret 3 rangées 39 modules,8.0,92.44,739.52,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Techni-Elec 74,Panneau PV 425Wc,2.0,148.59,297.18,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Bâti-Pro Alpes,Gaine ICTA Ø20 100m,4.0,35.7,142.8,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Bâti-Pro Alpes,Gants isolants classe 00,4.0,83.27,333.08,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Mairie de Cognin,Gants isolants classe 00,6.0,85.72,514.32,Sophie,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,lundi
+2026-09-14,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,4.0,92.17,368.68,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,ETS DUMONT & FILS,Coffret 3 rangées 39 modules,2.0,96.26,192.52,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Techni-Elec 74,Borne de recharge 7.4kW,2.0,569.81,1139.62,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,lundi
+2026-09-14,Mairie de Cognin,Gants isolants classe 00,6.0,82.81,496.86,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,lundi
+2026-09-14,Bâti-Pro Alpes,Borne de recharge 7.4kW,1.0,591.99,591.99,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,GRENOBLE HABITAT,Gants isolants classe 00,7.0,83.09,581.63,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Voltalp Installation,Disjoncteur différentiel 30mA,1.0,71.61,71.61,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-14,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,3.0,162.06,486.18,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,lundi
+2026-09-14,CCI Savoie,Multimètre TRMS CAT III,4.0,136.44,545.76,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,lundi
+2026-09-14,Techni-Elec 74,Disjoncteur modulaire 16A,8.0,12.81,102.48,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,lundi
+2026-09-15,Techni-Elec 74,Disjoncteur différentiel 30mA,5.0,74.34,371.7,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Voltalp Installation,Disjoncteur modulaire 16A,8.0,13.19,105.52,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Mairie de Cognin,Onduleur hybride 5kW,2.0,1146.34,2292.68,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,4.0,161.51,646.04,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Techni-Elec 74,Onduleur hybride 5kW,1.0,1089.6,1089.6,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,4.0,59.07,236.28,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,3.0,151.19,453.57,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,CCI Savoie,Dalle LED 600x600 36W,4.0,58.1,232.4,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,2.0,161.79,323.58,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,CCI Savoie,Disjoncteur différentiel 30mA,5.0,71.62,358.1,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Techni-Elec 74,Dalle LED 600x600 36W,7.0,59.81,418.67,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,CCI Savoie,Coffret 3 rangées 39 modules,5.0,91.29,456.45,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Bâti-Pro Alpes,Onduleur hybride 5kW,1.0,1074.17,1074.17,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,CCI Savoie,Câble U-1000 R2V 3G2.5 100m,3.0,161.78,485.34,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,ETS DUMONT & FILS,Panneau PV 425Wc,4.0,153.84,615.36,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,Alpes Energies Nouvelles,Projecteur LED 150W IP66,4.0,109.06,436.24,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,ELEC SAVOIE,Borne de recharge 7.4kW,1.0,611.67,611.67,Blanc,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,mardi
+2026-09-15,Alpes Energies Nouvelles,Borne de recharge 7.4kW,2.0,611.69,1223.38,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-15,ELEC SAVOIE,Disjoncteur différentiel 30mA,3.0,73.8,221.4,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-15,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,6.0,87.85,527.1,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-15,ELEC SAVOIE,Disjoncteur différentiel 30mA,4.0,74.39,297.56,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-15,Domaine Skiable Courchevel,Panneau PV 425Wc,2.0,155.91,311.82,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-15,SARL MONTBLANC ELEC,Projecteur LED 150W IP66,4.0,107.65,430.6,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mardi
+2026-09-15,ETS DUMONT & FILS,Projecteur LED 150W IP66,3.0,113.43,340.29,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,mardi
+2026-09-15,Mairie de Cognin,Disjoncteur différentiel 30mA,2.0,76.47,152.94,Blanc,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,mardi
+2026-09-15,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,5.0,86.81,434.05,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mardi
+2026-09-16,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,8.0,12.39,99.12,Sophie,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,mercredi
+2026-09-16,ETS DUMONT & FILS,Projecteur LED 150W IP66,4.0,111.15,444.6,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Alpes Energies Nouvelles,Gants isolants classe 00,6.0,84.61,507.66,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Domaine Skiable Courchevel,Onduleur hybride 5kW,2.0,1018.09,2036.18,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Techni-Elec 74,Borne de recharge 7.4kW,2.0,608.08,1216.16,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Mairie de Cognin,Borne de recharge 7.4kW,3.0,595.35,1786.05,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,ETS DUMONT & FILS,Gaine ICTA Ø20 100m,7.0,34.03,238.21,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Voltalp Installation,Multimètre TRMS CAT III,2.0,139.09,278.18,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,8.0,87.85,702.8,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mercredi
+2026-09-16,ELEC SAVOIE,Gaine ICTA Ø20 100m,4.0,36.37,145.48,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,ETS DUMONT & FILS,Disjoncteur modulaire 16A,6.0,12.48,74.88,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Domaine Skiable Courchevel,Gants isolants classe 00,6.0,85.41,512.46,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Bâti-Pro Alpes,Câble U-1000 R2V 3G2.5 100m,1.0,158.9,158.9,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,mercredi
+2026-09-16,ELEC SAVOIE,Multimètre TRMS CAT III,6.0,142.59,855.54,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Techni-Elec 74,Onduleur hybride 5kW,1.0,1107.67,1107.67,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,mercredi
+2026-09-16,CCI Savoie,Gaine ICTA Ø20 100m,8.0,35.04,280.32,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,Voltalp Installation,Multimètre TRMS CAT III,1.0,143.05,143.05,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,SARL MONTBLANC ELEC,Coffret 3 rangées 39 modules,3.0,91.59,274.77,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,GRENOBLE HABITAT,Gants isolants classe 00,4.0,84.41,337.64,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-16,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,16.0,11.83,189.28,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,mercredi
+2026-09-17,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,9.0,13.0,117.0,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Alpes Energies Nouvelles,Gaine ICTA Ø20 100m,9.0,35.57,320.13,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Alpes Energies Nouvelles,Onduleur hybride 5kW,1.0,1137.23,1137.23,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,ELEC SAVOIE,Multimètre TRMS CAT III,5.0,145.95,729.75,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,jeudi
+2026-09-17,ELEC SAVOIE,Borne de recharge 7.4kW,4.0,603.2,2412.8,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Techni-Elec 74,Borne de recharge 7.4kW,1.0,619.67,619.67,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,GRENOBLE HABITAT,Panneau PV 425Wc,4.0,162.03,648.12,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Bâti-Pro Alpes,Multimètre TRMS CAT III,4.0,141.67,566.68,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,jeudi
+2026-09-17,Domaine Skiable Courchevel,Projecteur LED 150W IP66,4.0,106.93,427.72,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Voltalp Installation,Projecteur LED 150W IP66,6.0,108.18,649.08,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,jeudi
+2026-09-17,Bâti-Pro Alpes,Onduleur hybride 5kW,1.0,1146.34,1146.34,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,GRENOBLE HABITAT,Câble U-1000 R2V 3G2.5 100m,2.0,157.13,314.26,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,ETS DUMONT & FILS,Gants isolants classe 00,2.0,83.34,166.68,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,jeudi
+2026-09-17,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,6.0,159.09,954.54,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,jeudi
+2026-09-17,Mairie de Cognin,Gants isolants classe 00,3.0,86.27,258.81,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,Voltalp Installation,Câble U-1000 R2V 3G2.5 100m,1.0,164.1,164.1,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,ETS DUMONT & FILS,Coffret 3 rangées 39 modules,4.0,94.39,377.56,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-17,SARL MONTBLANC ELEC,Disjoncteur modulaire 16A,12.0,12.64,151.68,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,jeudi
+2026-09-17,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,9.0,12.78,115.02,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,jeudi
+2026-09-18,Industries Rhône SAS,Projecteur LED 150W IP66,3.0,107.01,321.03,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Industries Rhône SAS,Dalle LED 600x600 36W,7.0,57.78,404.46,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,Voltalp Installation,Gaine ICTA Ø20 100m,2.0,36.71,73.42,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,ELEC SAVOIE,Projecteur LED 150W IP66,1.0,108.74,108.74,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,SARL MONTBLANC ELEC,Disjoncteur différentiel 30mA,7.0,73.23,512.61,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Domaine Skiable Courchevel,Borne de recharge 7.4kW,3.0,576.99,1730.97,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Domaine Skiable Courchevel,Disjoncteur modulaire 16A,7.0,13.14,91.98,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,ETS DUMONT & FILS,Disjoncteur modulaire 16A,7.0,12.6,88.2,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Industries Rhône SAS,Dalle LED 600x600 36W,6.0,63.14,378.84,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Voltalp Installation,Gaine ICTA Ø20 100m,9.0,36.79,331.11,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,CCI Savoie,Multimètre TRMS CAT III,4.0,126.59,506.36,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Techni-Elec 74,Gants isolants classe 00,6.0,88.14,528.84,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,GRENOBLE HABITAT,Dalle LED 600x600 36W,6.0,62.28,373.68,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Bâti-Pro Alpes,Coffret 3 rangées 39 modules,5.0,89.41,447.05,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Domaine Skiable Courchevel,Coffret 3 rangées 39 modules,1.0,91.87,91.87,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,CCI Savoie,Dalle LED 600x600 36W,6.0,61.48,368.88,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,vendredi
+2026-09-18,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1072.04,1072.04,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,vendredi
+2026-09-18,ELEC SAVOIE,Gaine ICTA Ø20 100m,4.0,35.27,141.08,Blanc,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,vendredi
+2026-09-18,Mairie de Cognin,Gants isolants classe 00,2.0,88.14,176.28,Sophie,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,GRENOBLE HABITAT,Onduleur hybride 5kW,1.0,1126.68,1126.68,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-18,GRENOBLE HABITAT,Panneau PV 425Wc,3.0,157.36,472.08,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,vendredi
+2026-09-18,Techni-Elec 74,Câble U-1000 R2V 3G2.5 100m,5.0,158.96,794.8,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,vendredi
+2026-09-18,ELEC SAVOIE,Onduleur hybride 5kW,1.0,1137.68,1137.68,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,vendredi
+2026-09-19,ETS DUMONT & FILS,Multimètre TRMS CAT III,3.0,131.49,394.47,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,Voltalp Installation,Disjoncteur modulaire 16A,8.0,13.3,106.4,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,CCI Savoie,Multimètre TRMS CAT III,3.0,136.26,408.78,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Mairie de Cognin,Projecteur LED 150W IP66,3.0,105.67,317.01,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,4.0,155.53,622.12,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Industries Rhône SAS,Gaine ICTA Ø20 100m,6.0,36.75,220.5,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,GRENOBLE HABITAT,Gaine ICTA Ø20 100m,6.0,35.36,212.16,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,Alpes Energies Nouvelles,Coffret 3 rangées 39 modules,3.0,90.86,272.58,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,CCI Savoie,Panneau PV 425Wc,3.0,150.08,450.24,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,GRENOBLE HABITAT,Projecteur LED 150W IP66,1.0,104.21,104.21,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Mairie de Cognin,Câble U-1000 R2V 3G2.5 100m,5.0,154.8,774.0,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,samedi
+2026-09-19,Industries Rhône SAS,Disjoncteur différentiel 30mA,4.0,76.45,305.8,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,Voltalp Installation,Panneau PV 425Wc,1.0,154.6,154.6,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,samedi
+2026-09-19,SARL MONTBLANC ELEC,Multimètre TRMS CAT III,6.0,146.51,879.06,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,samedi
+2026-09-19,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,2.0,34.95,69.9,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,ETS DUMONT & FILS,Borne de recharge 7.4kW,2.0,595.2,1190.4,Blanc,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,samedi
+2026-09-19,Mairie de Cognin,Borne de recharge 7.4kW,1.0,593.89,593.89,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,10.0,34.32,343.2,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,ETS DUMONT & FILS,Gants isolants classe 00,2.0,87.03,174.06,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,ETS DUMONT & FILS,Gants isolants classe 00,5.0,86.71,433.55,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,GRENOBLE HABITAT,Coffret 3 rangées 39 modules,4.0,93.53,374.12,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Domaine Skiable Courchevel,Gaine ICTA Ø20 100m,8.0,36.02,288.16,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,CCI Savoie,Panneau PV 425Wc,2.0,151.95,303.9,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,Techni-Elec 74,Borne de recharge 7.4kW,1.0,606.19,606.19,Meyer,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,ELEC SAVOIE,Gaine ICTA Ø20 100m,10.0,36.98,369.8,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,samedi
+2026-09-19,Domaine Skiable Courchevel,Dalle LED 600x600 36W,6.0,61.73,370.38,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,CCI Savoie,Câble U-1000 R2V 3G2.5 100m,5.0,152.73,763.65,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-19,Techni-Elec 74,Gants isolants classe 00,7.0,86.26,603.82,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,samedi
+2026-09-20,Bâti-Pro Alpes,Panneau PV 425Wc,1.0,157.91,157.91,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,dimanche
+2026-09-20,ELEC SAVOIE,Disjoncteur modulaire 16A,11.0,12.46,137.06,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,dimanche
+2026-09-20,Alpes Energies Nouvelles,Multimètre TRMS CAT III,2.0,137.89,275.78,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Mairie de Cognin,Panneau PV 425Wc,2.0,160.04,320.08,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Alpes Energies Nouvelles,Projecteur LED 150W IP66,2.0,104.94,209.88,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Mairie de Cognin,Panneau PV 425Wc,3.0,148.74,446.22,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Industries Rhône SAS,Disjoncteur modulaire 16A,8.0,12.5,100.0,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Domaine Skiable Courchevel,Câble U-1000 R2V 3G2.5 100m,4.0,164.1,656.4,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,dimanche
+2026-09-20,CCI Savoie,Multimètre TRMS CAT III,3.0,144.77,434.31,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Bâti-Pro Alpes,Gants isolants classe 00,6.0,82.84,497.04,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Voltalp Installation,Disjoncteur différentiel 30mA,6.0,72.01,432.06,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Mairie de Cognin,Multimètre TRMS CAT III,3.0,146.96,440.88,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Bâti-Pro Alpes,Disjoncteur modulaire 16A,4.0,12.31,49.24,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,SARL MONTBLANC ELEC,Dalle LED 600x600 36W,3.0,63.65,190.95,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Mairie de Cognin,Coffret 3 rangées 39 modules,5.0,96.97,484.85,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,GRENOBLE HABITAT,Borne de recharge 7.4kW,4.0,590.07,2360.28,Blanc,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,ETS DUMONT & FILS,Borne de recharge 7.4kW,1.0,611.48,611.48,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,CCI Savoie,Gants isolants classe 00,1.0,85.87,85.87,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,ELEC SAVOIE,Borne de recharge 7.4kW,1.0,598.43,598.43,Perrin,Non identifiée,caisse_comptoir_S38.csv,38,2026,38,2026-S38,dimanche
+2026-09-20,ELEC SAVOIE,Panneau PV 425Wc,1.0,157.18,157.18,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,SARL MONTBLANC ELEC,Panneau PV 425Wc,4.0,154.02,616.08,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,dimanche
+2026-09-20,SARL MONTBLANC ELEC,Gaine ICTA Ø20 100m,5.0,35.99,179.95,Roux,Annecy,ventes_annecy_S38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,ELEC SAVOIE,Câble U-1000 R2V 3G2.5 100m,7.0,162.43,1137.01,Perrin,Chambéry,Export Chambery semaine 38.xlsx,38,2026,38,2026-S38,dimanche
+2026-09-20,Techni-Elec 74,Onduleur hybride 5kW,2.0,1032.26,2064.52,Fournier,Grenoble,VENTES-GRENOBLE-20260914.xlsx,,2026,38,2026-S38,dimanche

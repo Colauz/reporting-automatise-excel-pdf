@@ -1,0 +1,19 @@
+[Unit]
+Description=Rapport commercial hebdomadaire
+After=network-online.target remote-fs.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=reporting
+WorkingDirectory=/opt/reporting
+ExecStart=/opt/reporting/.venv/bin/python /opt/reporting/main.py
+EnvironmentFile=/etc/reporting/env
+# Le partage réseau peut être indisponible au réveil : on réessaie 3 fois.
+Restart=on-failure
+RestartSec=300
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
